@@ -28,6 +28,21 @@ A estrutura do projeto será:
 
 07.	Análise
 	a.	Responder as seguintes perguntas:
-	-i.	Quais o estado que mais creceu nesse periodo?
-	-ii. Qual o grupo dos 10 maiores crescimento desse periodo?
-        -iii. 
+	i.	Quais o estado que mais creceu nesse periodo?
+	ii. Qual o grupo dos 10 maiores crescimento desse periodo?
+    iii. 
+
+
+08. Tratamento de dados
+    Glossário:
+        # "NC": "Nível Territorial (Código)",
+        # "NN": "Nível Territorial",
+        # "MC": "Unidade de Medida (Código)",
+        # "MN": "Unidade de Medida",
+        # "V": "Valor",
+        # "D1C": "Unidade da Federação (Código)",
+        # "D1N": "Unidade da Federação",
+        # "D2C": "Variável (Código)",
+        # "D2N": "Variável",
+        # "D3C": "Ano (Código)",
+        # "D3N": "Ano"
