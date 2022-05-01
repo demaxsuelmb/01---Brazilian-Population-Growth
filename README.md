@@ -28,8 +28,8 @@ A estrutura do projeto será:
 
 07.	Análise
 	a.	Responder as seguintes perguntas:
-	i.	Quais o estado que mais creceu nesse periodo?
-	ii. Qual o grupo dos 10 maiores crescimento desse periodo?
+	i.	Quais os estados que mais creceram nesse periodo?
+	ii. Qual o grupo dos 10 maiores crescimentos desse periodo?
     iii. 
 
 

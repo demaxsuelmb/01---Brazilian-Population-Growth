@@ -12,7 +12,6 @@ df = df[["D3C", "D1C", "V"]]
 #Excluir a primeira linha
 df_1 = df.iloc[1:,0:]
 
-
 # # dados de 2006 a 2013
 url = "https://apisidra.ibge.gov.br/values/t/6579/n6/all/v/all/p/2006,2008,2009,2011,2012,2013"
 df = pd.read_json(url)
@@ -33,6 +32,5 @@ df_3 = df.iloc[1:,0:]
 # Agregar datasets df_2 e df_3
 df = df_3.append(df_2,)
 
-
 # carregar o dados para uma csv
-df.to_csv("dataset_populacao.csv")
+# df.to_csv("dataset_populacao.csv")
